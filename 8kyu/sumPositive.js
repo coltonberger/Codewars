@@ -5,6 +5,7 @@ function positiveSum(arr) {
     var num = arr[i];
     if (num >= 0) {
      sum += num;
+     debugger;
     }
   }
 
